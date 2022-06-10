@@ -7,5 +7,5 @@ Bibliothéqeus utilisées :
 pandas
 numpy
 matplotlib
-sklearn.preprocessing
+sklearn
 seaborn
